@@ -1,3 +1,10 @@
 # Chapter 01: Toys
 
-This file reserved for information pertaining to Chapter 1.
+Chapter 1 "Toys" introduces some basic Scheme concepts such as `atoms`, `lists`, and `S-expressions`. 
+
+## Atoms
+
+## Lists
+
+## S-Expressions
+

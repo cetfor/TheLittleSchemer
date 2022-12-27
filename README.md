@@ -71,7 +71,9 @@ user@devbox:~/$ man csi
 user@devbox:~/$ man csc
 ```
 
-And also the official [CHICKEN Scheme documentation](http://wiki.call-cc.org/man/5/The%20User%27s%20Manual).
+The official [CHICKEN Scheme documentation](http://wiki.call-cc.org/man/5/The%20User%27s%20Manual).
+
+Learn X in Y minutes has [a nice document on CHICKEN](https://learnxinyminutes.com/docs/CHICKEN/).
 
 ## The Scheme Files & Notes
 
