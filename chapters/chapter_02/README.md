@@ -1,0 +1,3 @@
+# Chapter 02: Do It, Do It Again, and Again, and Again ... 
+
+This file reserved for information pertaining to Chapter 2.

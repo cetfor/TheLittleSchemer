@@ -1,0 +1,1 @@
+(display "Looks like we're cooking with fire!") (newline) (exit)
